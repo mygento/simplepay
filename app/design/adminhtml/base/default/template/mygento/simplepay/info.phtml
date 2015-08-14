@@ -1,0 +1,17 @@
+<?php
+/**
+ *
+ *
+ * @category Mygento
+ * @package Mygento_Simplepay
+ * @copyright Copyright © 2015 NKS LLC. (http://www.mygento.ru)
+ * @license GPLv2
+ */
+
+?>
+<strong><?php echo $this->getSimplepayName(); ?></strong>
+<?php if (!$this->isPaid()): ?>
+    <p><a target="_blank" href="<?php echo $this->getPaylink(); ?>">Оплатить заказ</a></p>
+<?php else: ?>
+    <p><?php echo $this->__('Order is paid'); ?></p>
+<?php endif; ?>
