@@ -1,7 +1,7 @@
 {
     "name": "mygento/simplepay",
     "type": "magento-module",
-    "license": "proprietary",
+    "license": "GPL-2.0",
     "homepage": "https://github.com/mygento/simplepay",
     "description": "SimplePay payment extension",
     "keywords": [

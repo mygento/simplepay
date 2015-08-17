@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f62c269af765e5d587d9c8c51fb75b74",
+    "hash": "d3370bdac1b4af3e7ea7418663cf7f03",
     "packages": [
         {
             "name": "eloquent/composer-config-reader",
@@ -604,12 +604,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/magento-ecg/coding-standard.git",
-                "reference": "37dcba1620d769a6802f14ca094bb3efd0870a70"
+                "reference": "71acdc3a1eb7cfa31c12c051ad87be45de039c22"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/magento-ecg/coding-standard/zipball/37dcba1620d769a6802f14ca094bb3efd0870a70",
-                "reference": "37dcba1620d769a6802f14ca094bb3efd0870a70",
+                "url": "https://api.github.com/repos/magento-ecg/coding-standard/zipball/71acdc3a1eb7cfa31c12c051ad87be45de039c22",
+                "reference": "71acdc3a1eb7cfa31c12c051ad87be45de039c22",
                 "shasum": ""
             },
             "require": {
@@ -629,7 +629,7 @@
             ],
             "description": "A set of PHP_CodeSniffer rules and sniffs.",
             "homepage": "https://github.com/magento-ecg/coding-standard",
-            "time": "2015-08-04 17:43:38"
+            "time": "2015-08-14 20:46:45"
         },
         {
             "name": "mygento/coding-standard",
@@ -802,16 +802,16 @@
         },
         {
             "name": "phpunit/php-token-stream",
-            "version": "1.4.3",
+            "version": "1.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-token-stream.git",
-                "reference": "7a9b0969488c3c54fd62b4d504b3ec758fd005d9"
+                "reference": "3ab72c62e550370a6cd5dc873e1a04ab57562f5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/7a9b0969488c3c54fd62b4d504b3ec758fd005d9",
-                "reference": "7a9b0969488c3c54fd62b4d504b3ec758fd005d9",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/3ab72c62e550370a6cd5dc873e1a04ab57562f5b",
+                "reference": "3ab72c62e550370a6cd5dc873e1a04ab57562f5b",
                 "shasum": ""
             },
             "require": {
@@ -847,7 +847,7 @@
             "keywords": [
                 "tokenizer"
             ],
-            "time": "2015-06-19 03:43:16"
+            "time": "2015-08-16 08:51:00"
         },
         {
             "name": "sebastian/finder-facade",
