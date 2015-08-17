@@ -1,4 +1,4 @@
-app/code/local/Mygento/Simplepay app/code/local/Mygento/Simplepay
+app/code/community/Mygento/Simplepay app/code/community/Mygento/Simplepay
 app/design/adminhtml/base/default/template/mygento/simplepay/info.phtml app/design/adminhtml/base/default/template/mygento/simplepay/info.phtml
 app/design/frontend/base/default/template/mygento/simplepay app/design/frontend/base/default/template/mygento/simplepay
 app/etc/modules/Mygento_Simplepay.xml app/etc/modules/Mygento_Simplepay.xml
