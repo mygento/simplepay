@@ -3,4 +3,3 @@ app/design/adminhtml/base/default/template/mygento/simplepay/info.phtml app/desi
 app/design/frontend/base/default/template/mygento/simplepay app/design/frontend/base/default/template/mygento/simplepay
 app/etc/modules/Mygento_Simplepay.xml app/etc/modules/Mygento_Simplepay.xml
 app/locale/ru_RU/Mygento_Simplepay.csv app/locale/ru_RU/Mygento_Simplepay.csv
-composer.json composer.json
