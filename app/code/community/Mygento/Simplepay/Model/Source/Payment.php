@@ -26,7 +26,7 @@ class Mygento_Simplepay_Model_Source_Payment
             array('value' => 'NSYMBOLPT', 'label' => Mage::helper('simplepay')->__('HandyBank')),
             array('value' => 'PETROKOMMERCPT', 'label' => Mage::helper('simplepay')->__('Петрокоммерц')),
             array('value' => 'QIWIMAIN', 'label' => Mage::helper('simplepay')->__('QIWI Wallet')),
-            array('value' => '', 'label' => Mage::helper('simplepay')->__('Choose on merchant interface')),
+            array('value' => 'SP', 'label' => Mage::helper('simplepay')->__('Choose on merchant interface')),
         );
     }
 }
